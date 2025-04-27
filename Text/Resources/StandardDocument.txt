@@ -1,0 +1,4 @@
+<xml>
+<p1>Hello this is a test document</p1>
+<p2>Hello this is a test document</p2>
+</xml>

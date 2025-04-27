@@ -1,0 +1,46 @@
+<xml>
+	<loc>
+		<name>Farringdon</name>
+		<lat>51.52031</lat>
+		<lon>-0.104622</lon>
+		<origin></origin>
+		<visualiserOrigin>1</visualiserOrigin>						<visualiserName>Default</visualiserName>
+		<baseImage></baseImage>
+	</loc>
+	<loc>
+		<name>Barbican</name>
+		<lat>51.52027</lat>
+		<lon>-0.097656</lon>
+		<origin></origin>
+		<visualiserOrigin>1</visualiserOrigin>
+		<visualiserName>Default</visualiserName>
+		<baseImage></baseImage>
+	</loc>
+	<loc>
+		<name>KingsCross</name>
+		<lat>51.53074</lat>
+		<lon>-0.123701</lon>
+		<origin></origin>
+		<visualiserOrigin>1</visualiserOrigin>
+		<visualiserName>Default</visualiserName>
+		<baseImage></baseImage>
+	</loc>
+	<loc>
+		<name>Angel</name>
+		<lat>51.53324</lat>
+		<lon>-0.105823</lon>
+		<origin></origin>
+		<visualiserOrigin>1</visualiserOrigin>
+		<visualiserName>Default</visualiserName>
+		<baseImage></baseImage>
+	</loc>
+	<loc>
+		<name>ExmouthMarket</name>
+		<lat>51.52522</lat>
+		<lon>-0.10979</lon>
+		<origin></origin>
+		<visualiserOrigin>1</visualiserOrigin>
+		<visualiserName>Home</visualiserName>
+		<baseImage></baseImage>
+	</loc>
+</xml>
